@@ -11,4 +11,4 @@ def download(url, output: str = 'text'):
 
 
 if __name__ == '__main__':
-    download('http://www.gutenberg.org/files/308/308-0.txt', '3menboat') 
+    download('http://www.gutenberg.org/files/1342/1342-0.txt', 'pride') 
